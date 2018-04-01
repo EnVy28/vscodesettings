@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "'Lucida Console', Meiryo, Consolas, 'Courier New', monospace",
+
+    "editor.tabSize": 2,
+
+    "editor.renderWhitespace": "all",
+
+    "files.associations": {
+        "*.ctp": "php",
+        "*.htm": "php",
+        "*.html": "php"
+    },
+
+    "php.validate.executablePath": "C:\\xampp_7.2.2\\php\\php.exe",
+
+    "workbench.editor.enablePreview": false,
+
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "window.zoomLevel": 0,
+}
